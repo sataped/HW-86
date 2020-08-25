@@ -1,0 +1,15 @@
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\bin\Debug\Lec-86.exe.config
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\bin\Debug\Lec-86.exe
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\bin\Debug\Lec-86.pdb
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86.csprojAssemblyReference.cache
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\MainWindow.g.cs
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\App.g.cs
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86_MarkupCompile.cache
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86_MarkupCompile.lref
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\MainWindow.baml
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86.g.resources
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec_86.Properties.Resources.resources
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86.csproj.GenerateResource.cache
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86.csproj.CoreCompileInputs.cache
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86.exe
+D:\BontoDev\c#\Lec-86\Lec-86\Lec-86\obj\Debug\Lec-86.pdb
